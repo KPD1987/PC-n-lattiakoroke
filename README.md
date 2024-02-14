@@ -1,4 +1,4 @@
-# PC-n-lattiakoroke
+# Lattiakoroke PC:lle
 
 Korokeosat pitää tulostaa kahdessa osassa, yhden osan koko on 200x200mm (yhteensä 200x400mm), korkeus 27mm jalat sekä pohjaosat yhteenlaskettuna, pohja on mitoitettu Kolink Castle 
 (Mitat (LxKxS): 201x435x405mm) kotelolle. Sopinee hyvin muillekin vastaavan kokoisille koteloille ilman isompaa muokkaamisen tarvetta. Korokeosat kannattaa kiinnittää toisiinsa noin 58mm pitkillä ja halkaisijaltaan 10.35mm paksuilla putkilla, jotka voi joko tulostaa erikseen (malli putkille erikseen mukana) tai tehdä vahvemmasta materiaalista erikseen. Putket kannattaa liimata omille paikoilleen kuumaliimalla.
